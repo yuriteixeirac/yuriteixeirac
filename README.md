@@ -1,4 +1,3 @@
-
 <div align='center'>
     <img align='center' width='100%' src='assets/header-nimbus.jpeg' 
     style='
@@ -19,14 +18,14 @@
     </a>
 </div>
 
-<main>
-    <section>
-        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos.</p>
-        <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo para me acompanhar em.</p>
-    </section>
-    <section>
+<div>
+    <div>
+        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos, como ferramentas, provas de conceito ou algoritmos.</p>
+        <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo para me acompanhar nas atividades diárias.</p>
+    </div>
+    <div>
         <h2>Tech stack</h2>
-        <table align="center">
+        <table align="left">
             <tr>
                 <th style="border: 2px solid white;">Categoria</th>
                 <th style="border: 2px solid white;">Ferramenta</th>
@@ -40,24 +39,27 @@
                 <td style="border: 1px solid white;">Django, Flask, Spring, Playwright</td>
             </tr>
             <tr>
-                <td style="border: 1px solid white;">Banco de dados</td>
-                <td style="border: 1px solid white;">MySQL/MariaDB, Redis</td>
+                <td style="border: 1px solid white;">Dados e Infra</td>
+                <td style="border: 1px solid white;">MySQL, Redis, Docoker</td>
             </tr>
             <tr>
-                <td style="border: 1px solid white;">Arquitetura</td>
-                <td style="border: 1px solid white;">Domain driven design,<br> event driven architecutre</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid white;">Deploy</td>
-                <td style="border: 1px solid white;">Vercel, Docker</td>
+                <td style="border: 1px solid white;">Conceitos</td>
+                <td style="border: 1px solid white;">DDD, Event Driven A., RESTful APIs</td>
             </tr>
         </table>
-    </section>
-</main>
-
-<h2 align="left">Ouvindo agora</h2>
-<div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Atualmente ouvindo...">
-    </a>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div align="left">
+        <h2 align="left">Ouvindo agora</h2>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&redirect=true">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Atualmente ouvindo...">
+        </a>
+    </div>
 </div>
