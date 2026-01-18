@@ -1,6 +1,6 @@
 
 <div align='center'>
-    <img align='center' width='75%' src='assets/header-hisako.png' 
+    <img align='center' width='80%' src='assets/header-nimbus.jpeg' 
     style='
         border-radius: 7px;
     '>
@@ -21,8 +21,8 @@
 
 <main>
     <section>
-        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos.</p>
-        <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo.</p>
+        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos.</p>
+        <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo para me acompanhar em.</p>
     </section>
     <section>
         <h2>Tech stack</h2>
