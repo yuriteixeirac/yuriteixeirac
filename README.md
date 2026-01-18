@@ -3,7 +3,7 @@
 </header>
 
 <div align='center'>
-    <img align='center' src='assets/header-kid-goku.jpeg' 
+    <img align='center' src='assets/header-hisako.png' 
     style='
         border-radius: 7px;
     '>
@@ -11,18 +11,14 @@
 
 <br>
 
-<nav id='contact' align='left'>
+<div id='contact' align='center'>
     <a href="mailto:yuriteixeirac@proton.me">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
     </a>
     <a href="https://www.linkedin.com/in/yuriteixeirac">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-
-
-<!-- [![E-MAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriteixeirac@proton.me) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriteixeirac) -->
-</nav>
+</div>
 
 <main>
     <section>
@@ -60,12 +56,10 @@
         </table>
     </section>
 </main>
-<footer align="center">
-    <h2 align="left">Ouvindo agora</h2>
+
+<h2 align="left">Ouvindo agora</h2>
+<div align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Atualmente ouvindo...">
     </a>
-
-
-<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&redirect=true) -->
-</footer>
+</div>
