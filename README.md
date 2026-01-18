@@ -1,6 +1,6 @@
 
 <div align='center'>
-    <img align='center' width='80%' src='assets/header-nimbus.jpeg' 
+    <img align='center' width='100%' src='assets/header-nimbus.jpeg' 
     style='
         border-radius: 7px;
     '>
