@@ -1,6 +1,3 @@
-<header align='left'>
-    <h1>Yuri Teixeira</h1>
-</header>
 
 <div align='center'>
     <img align='center' src='assets/header-hisako.png' 
@@ -9,9 +6,11 @@
     '>
 </div>
 
-<br>
+<div align='left'>
+    <h1>Yuri Teixeira</h1>
+</div>
 
-<div id='contact' align='center'>
+<div id='contact' align='left'>
     <a href="mailto:yuriteixeirac@proton.me">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
     </a>
@@ -22,7 +21,6 @@
 
 <main>
     <section>
-        <h2>Sobre mim</h2>
         <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos.</p>
         <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo.</p>
     </section>
