@@ -1,6 +1,6 @@
 
 <div align='center'>
-    <img align='center' src='assets/header-hisako.png' 
+    <img align='center' width='75%' src='assets/header-hisako.png' 
     style='
         border-radius: 7px;
     '>
