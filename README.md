@@ -40,7 +40,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid white;">Dados e Infra</td>
-                <td style="border: 1px solid white;">MySQL, Redis, Docoker</td>
+                <td style="border: 1px solid white;">MySQL, Redis, Docker</td>
             </tr>
             <tr>
                 <td style="border: 1px solid white;">Conceitos</td>
