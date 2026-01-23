@@ -11,7 +11,7 @@
 
 <div>
     <div>
-        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos, como ferramentas, provas de conceito ou algoritmos.</p>
+        <p>Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos, como ferramentas, provas de conceito ou algoritmos, registrados no Github.</p>
         <p>Um elemento essencial do meu cotidiano, além do computador, é a música, especialmente algo mais calmo ou introspectivo para me acompanhar nas atividades diárias.</p>
     </div>
     <div>
