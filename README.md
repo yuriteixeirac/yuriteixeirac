@@ -1,13 +1,4 @@
-<!--<div align='center'>
-    <img align='center' width='100%' src='assets/header-nimbus.jpeg' 
-    style='
-        border-radius: 7px;
-    '>
-</div>-->
-
-<div align='left'>
-    <h1>Yuri Teixeira</h1>
-</div>
+# Yuri Teixeira</h1>
 
 <div id='contact' align='left'>
     <a href="mailto:yuriteixeirac@proton.me">
