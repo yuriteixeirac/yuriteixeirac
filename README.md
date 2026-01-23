@@ -1,9 +1,9 @@
-<div align='center'>
+<!--<div align='center'>
     <img align='center' width='100%' src='assets/header-nimbus.jpeg' 
     style='
         border-radius: 7px;
     '>
-</div>
+</div>-->
 
 <div align='left'>
     <h1>Yuri Teixeira</h1>
