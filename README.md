@@ -23,7 +23,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid white;">Linguagens</td>
-                <td style="border: 1px solid white;">Python, Java, Golang</td>
+                <td style="border: 1px solid white;">Python, Java</td>
             </tr>
             <tr>
                 <td style="border: 1px solid white;">Frameworks</td>
