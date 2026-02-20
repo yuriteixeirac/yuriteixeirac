@@ -1,7 +1,5 @@
 # Yuri Teixeira
 
-![header](assets/header-kid-goku.jpeg)
-
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriteixeirac@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriteixeirac)
 [![NeoCities](https://img.shields.io/badge/NeoCities-D16002?style=for-the-badge&logo=neocities&logoColor=white)](https://21yyri.neocities.org)
