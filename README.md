@@ -15,7 +15,6 @@ Um elemento essencial do meu cotidiano, além do computador, é a música, espec
 | Linguagens    | Java, Python                       |
 | Frameworks    | Django, Flask, Spring, Playwright  |
 | Dados & Infra | MySQL, PostgreSQL, Docker, Redis   |
-| Conceitos     | TDD, Event Driven A., RESTful APIs |
 
 ## Ouvindo agora
 
