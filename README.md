@@ -12,7 +12,7 @@ Um elemento essencial do meu cotidiano, além do computador, é a música, espec
 
 | Categoria     | Ferramentas                        |
 | ------------- | ---------------------------------- |
-| Linguagens    | Java, Python                       |
+| Linguagens    | Python, Java                       |
 | Frameworks    | Django, Flask, Spring, Playwright  |
 | Dados & Infra | MySQL, PostgreSQL, Docker, Redis   |
 
