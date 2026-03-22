@@ -12,15 +12,21 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 - **[Go Scout](https://github.com/yuriteixeirac/go-scout)**: motor de busca baseado em Go usando Redis para indexação e busca de URLs por meio de uma query.
 
 Todos os meus projetos tendem a solucionar um problema, experimentar com novas tecnologias ou ambos. A motivação por trás dos projetos geralmente é documentada em seus repositórios. Caso te interesse, não hesite em olhar e talvez até contribuir!
-
 ## Tecnologias
+<div align='center'>
 
 | Categoria     | Ferramentas                        |
 | ------------- | ---------------------------------- |
-| Linguagens    | Python, Java, Golang               |
+| Linguagens    | Python, Java, Go                   |
 | Frameworks    | Django, Flask, Spring, Playwright  |
 | Dados & Infra | MySQL, PostgreSQL, Docker, Redis   |
 
+</div>
+
 ## Ouvindo agora
 
+<div align='center'>
+
 ![Ouvindo agora...](https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)
+
+</div>
