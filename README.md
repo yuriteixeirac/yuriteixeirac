@@ -15,11 +15,11 @@ Todos os meus projetos tendem a solucionar um problema, experimentar com novas t
 ## Tecnologias
 <div align='center'>
 
-| Categoria     | Ferramentas                        |
-| ------------- | ---------------------------------- |
-| Linguagens    | Python, Java, Go                   |
-| Frameworks    | Django, Flask, Spring, Playwright  |
-| Dados & Infra | MySQL, PostgreSQL, Docker, Redis   |
+| Categoria     | Ferramentas            |
+| ------------- | ---------------------- |
+| Linguagens    | Python, Java, PHP      |
+| Frameworks    | Django, Flask, Spring  |
+| Dados & Infra | SQL, Docker, Redis     |
 
 </div>
 
