@@ -7,12 +7,13 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 
 ## Projetos de destaque
 
-- **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que indexa suas anotações e possibilita busca semântica.
-- **[NotIFica](https://github.com/yuriteixeirac/notifica)**: plataforma para melhor dispersão do setor de comunicação no IFRN Ceará-Mirim.
-- **[Go Scout](https://github.com/yuriteixeirac/go-scout)**: motor de busca baseado em Go usando Redis para indexação e busca de URLs por meio de uma query.
+- **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que indexa arquivos de texto e possibilita busca semântica pelo terminal.
+- **[Notifica](https://github.com/yuriteixeirac/notifica)**: plataforma destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
 
-Todos os meus projetos tendem a solucionar um problema, experimentar com novas tecnologias ou ambos. A motivação por trás dos projetos geralmente é documentada em seus repositórios. Caso te interesse, não hesite em olhar e talvez até contribuir!
+Todos os meus projetos buscam solucionar um problema e experimentar com novas tecnologias. Caso se interesse, não hesite em contribuir.
+
 ## Tecnologias
+
 <div align='center'>
 
 | Categoria     | Ferramentas            |
