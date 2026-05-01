@@ -19,8 +19,8 @@ Todos os meus projetos buscam solucionar um problema e experimentar com novas te
 
 | Categoria     | Ferramentas            |
 | ------------- | ---------------------- |
-| Linguagens    | Python, PHP            |
-| Frameworks    | Django, Flask, Laravel |
+| Linguagens    | Python, JS/TS, Golang  |
+| Frameworks    | Django, Flask, Express |
 | Dados & Infra | SQL, Docker, Redis     |
 
 </div>
