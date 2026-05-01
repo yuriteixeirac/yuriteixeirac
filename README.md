@@ -9,6 +9,7 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 
 - **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que indexa arquivos de texto e possibilita busca semântica pelo terminal.
 - **[Notifica](https://github.com/yuriteixeirac/notifica)**: plataforma destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
+- **[OpenForms](https://github.com/yuriteixeirac/open-forms)**: sistema auto-hospedado para gerenciamento de formulários e dados.
 
 Todos os meus projetos buscam solucionar um problema e experimentar com novas tecnologias. Caso se interesse, não hesite em contribuir.
 
@@ -18,8 +19,8 @@ Todos os meus projetos buscam solucionar um problema e experimentar com novas te
 
 | Categoria     | Ferramentas            |
 | ------------- | ---------------------- |
-| Linguagens    | Python, Java, PHP      |
-| Frameworks    | Django, Flask, Spring  |
+| Linguagens    | Python, PHP            |
+| Frameworks    | Django, Flask, Laravel |
 | Dados & Infra | SQL, Docker, Redis     |
 
 </div>
