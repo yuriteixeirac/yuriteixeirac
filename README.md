@@ -8,14 +8,14 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 
 ## Projetos de destaque
 
-- **[Notifica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
+- **[notIFica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
 - **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal.
 - **[OdontoMS](https://github.com/yuriteixeirac/odonto-ms)**: sistema de gerenciamento de clínica odontológica.
 
 ## Tecnologias
 
-| Categoria           | Ferramentas               |
-| ------------------- | ------------------------- |
-| Linguagens          | Python, JS/TS, PHP        |
-| Frameworks e web    | Django, Flask, Wordpress  |
-| Dados & Infra       | SQL, Docker, Redis        |
+| Categoria           | Ferramentas                     |
+| ------------------- | ------------------------------- |
+| Linguagens          | Python, JS/TS, PHP              |
+| Frameworks e web    | Django, Flask, React, Wordpress |
+| Dados & Infra       | SQL, Docker, Redis              |
