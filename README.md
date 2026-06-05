@@ -14,8 +14,8 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 
 ## Tecnologias
 
-| Categoria           | Ferramentas                         |
-| ------------------- | ----------------------------------- |
-| Linguagens          | Python, JavaScript, TypeScript, PHP |
-| Frameworks e web    | Django, Flask, React, Wordpress     |
-| Dados & Infra       | SQL, Docker, Redis, RabbitMQ        |
+| Categoria           | Ferramentas                              |
+| ------------------- | ---------------------------------------- |
+| Linguagens          | Python, JavaScript, TypeScript, PHP      |
+| Frameworks e web    | Django, Flask, React, Wordpress, Node.js |
+| Dados & Infra       | SQL, Redis, RabbitMQ, Docker, Celery     |
