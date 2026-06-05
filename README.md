@@ -23,11 +23,3 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 | Dados & Infra       | SQL, Docker, Redis        |
 
 </div>
-
-## Ouvindo agora
-
-<div align='center'>
-
-![Ouvindo agora...](https://spotify-github-profile.kittinanx.com/api/view?uid=yurizxn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)
-
-</div>
