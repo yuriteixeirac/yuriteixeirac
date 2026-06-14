@@ -6,9 +6,8 @@
 
 Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos, como ferramentas, provas de conceito ou algoritmos.
 
-## O que eu fiz
+## O que eu faço
 
-- **[notIFica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
 - **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal.
+- **[notIFica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
 - **[OdontoMS](https://github.com/yuriteixeirac/odonto-ms)**: sistema de gerenciamento de clínica odontológica.
-
