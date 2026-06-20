@@ -8,7 +8,7 @@ Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e
 
 ## O que eu faço
 
-- **[Laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal.
-- **[notIFica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
-- **[OdontoMS](https://github.com/yuriteixeirac/odonto-ms)**: sistema multi-tenant para gerenciamento de clínica odontológica.
+- **[laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal.
+- **[notifica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
+- **[odonto-ms](https://github.com/yuriteixeirac/odonto-ms)**: sistema multi-tenant para gerenciamento de clínica odontológica.
 - **[rover](https://github.com/yuriteixeirac/rover)**: motor de busca que usa indexação reversa para registro de consulta de sites da Internet;
