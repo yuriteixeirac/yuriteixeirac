@@ -1,12 +1,10 @@
-# Yuri Teixeira
+# yuri teixeira
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriteixeirac@proton.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriteixeirac)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=for-the-badge&logo=vercel&logoColor=white)](https://yuri-teixeira.vercel.app)
+esse é meu portfólio de desenvolvimento. sou um estudante e estagiário com atualmente 2 anos e meio em experiências acadêmicas e profissionais. o meu foco é em experimentar com a tecnologia e construir soluções práticas e acessíveis.
 
-Estudante de informática pelo IFRN. Interessado pelo desenvolvimento back-end e arquitetura de sistemas. Tenho gosto por aprender de forma autônoma e aplicar meus conhecimentos em projetos pessoais ou acadêmicos, como ferramentas, provas de conceito ou algoritmos.
+no meu tempo de estudo e prática, adquiri conhecimento no projetamento de software e técnica no desenvolvimento de aplicações full-stack e automação de processos.
 
-## Destaques
+## projetos destaque
 
 - **[laika](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal.
 - **[notifica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim.
