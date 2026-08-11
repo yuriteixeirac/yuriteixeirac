@@ -15,4 +15,4 @@ tenho interesse em engenharia de software, sistemas distribuídos e inteligênci
 
 ## tecnologias
 
-python · php · javascript · django · wordpress · react · linux · sql · nosql
+python · php · java · javascript · sql · nosql · django ·  react · wordpress · linux
