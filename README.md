@@ -1,11 +1,15 @@
 # yuri teixeira
 
-esse é meu portfólio de desenvolvimento. sou um estudante e estagiário com atualmente 2 anos e meio em experiências acadêmicas e profissionais. o meu foco é em experimentar com a tecnologia e construir soluções práticas e acessíveis.
+estudante de informática no IFRN e desenvolvedor de software.
 
-no meu tempo de estudo e prática, adquiri conhecimento no projetamento de software e técnica no desenvolvimento de aplicações full-stack e automação de processos.
+atuo principalmente com Python, PHP e bancos de dados SQL ou NoSQL,
+desenvolvendo aplicações web, APIs e automações.
 
-## projetos destaque
+tenho interesse em engenharia de software, sistemas distribuídos e inteligência artificial aplicada.
 
-- **[hubble](https://github.com/yuriteixeirac/laika)**: monitor de arquivos que transforma arquivos de texto em vetores e possibilita busca semântica pelo terminal;
-- **[notifica](https://github.com/yuriteixeirac/notifica)**: plataforma digital destinada ao setor de comunicação servidor-aluno no IFRN Ceará-Mirim;
-- **[rover](https://github.com/yuriteixeirac/rover)**: motor de busca que usa indexação reversa para registro de consulta de sites da Internet.
+## projetos em destaque
+
+- **[hubble](github.com/yuriteixeirac/hubble)** — daemon para monitoramento e indexação de arquivos, com busca semântica via terminal.
+- **[notifica](github.com/yuriteixeirac/notifica)** — API REST para publicação e integração de notícias e postagens.
+- **[rover-engine](github.com/yuriteixeirac/rover-engine)** — mecanismo de busca baseado em índice invertido.
+- **[odonto-ms](github.com/yuriteixeirac/odonto-ms)** — sistema full-stack de gerenciamento para clínicas odontológicas.
