@@ -1,18 +1,24 @@
-# yuri teixeira
+# Yuri Teixeira
 
-estudante de informática no IFRN e desenvolvedor de software.
+Desenvolvedor backend em formação e estudante de Informática no IFRN.
 
-atuo principalmente com python, php e bancos de dados relacionais e nosql, desenvolvendo aplicações web, APIs, automações e sistemas de processamento de dados.
+Trabalho principalmente com Python, Django, PHP para sistemas web. Tenho interesse em engenharia de software, sistemas distribuídos e inteligência artificial aplicada.
 
-tenho interesse em engenharia de software, sistemas distribuídos e inteligência artificial aplicada.
+Atualmente, busco oportunidades de estágio e colaboração em projetos de software.
 
-## projetos em destaque
+## Projetos em destaque
 
-- **[hubble](github.com/yuriteixeirac/hubble)** — daemon para monitoramento e indexação de arquivos, com busca semântica via terminal.
-- **[notifica](github.com/yuriteixeirac/notifica)** — API REST para publicação e integração de notícias e postagens.
-- **[rover-engine](github.com/yuriteixeirac/rover-engine)** — mecanismo de busca baseado em índice invertido.
-- **[odonto-ms](github.com/yuriteixeirac/odonto-ms)** — sistema full-stack de gerenciamento para clínicas odontológicas.
+- **[hubbled](https://github.com/yuriteixeirac/hubbled)** — daemon para monitoramento e indexação de arquivos, com busca semântica via terminal.
+- **[notifica](https://github.com/yuriteixeirac/notifica)** — API REST para publicação e integração de notícias e postagens.
+- **[rover-engine](https://github.com/yuriteixeirac/rover-engine)** — mecanismo de busca baseado em índice invertido.
+- **[odonto-ms](https://github.com/yuriteixeirac/odonto-ms)** — sistema full-stack de gerenciamento para clínicas odontológicas.
 
-## tecnologias
+## Competências técnicas
 
-python · php · java · javascript · sql · nosql · django ·  react · wordpress · linux
+**Linguagens**: Python, PHP, JavaScript, Java.  
+**Backend**: Django, Flask, FastAPI, Node.js, Spring Boot.  
+**Frontend**: React, Tailwind CSS e WordPress.  
+**Dados e mensageria**: PostgreSQL, MySQL, SQLite, Redis, ChromaDB, RabbitMQ e Celery.   
+**Infraestrutura**: Linux, SSH, Docker, Git e Celery.  
+**Automação e IA**: LangChain, LangGraph, Ollama, Playwright e Beautiful Soup.  
+**Arquitetura e qualidade**: Arquitetura em camadas, sistemas orientados a eventos, SOLID, testes automatizados.
