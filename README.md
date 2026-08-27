@@ -2,9 +2,9 @@
 
 Desenvolvedor backend em formação e estudante de Informática no IFRN.
 
-Trabalho principalmente com Python, Django, PHP para sistemas web. Tenho interesse em engenharia de software, sistemas distribuídos e inteligência artificial aplicada.
+Trabalho principalmente com Python e TypeScript para sistemas web. Tenho interesse em engenharia de software, sistemas distribuídos e inteligência artificial aplicada.
 
-Atualmente, busco oportunidades de estágio e colaboração em projetos de software.
+Atualmente, busco oportunidades de colaboração em projetos de software.
 
 ## Projetos em destaque
 
