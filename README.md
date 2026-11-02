@@ -1,7 +1,5 @@
 # Yuri Teixeira
 
-Estudante de Informática no IFRN, com experiência em desenvolvimento backend, nuvem e interesse crescente em infraestrutura e redes.
+Estudante de Informática no IFRN, com experiência prática em desenvolvimento web e automação de processos. Tenho interesse no desenvolvimento back-end e em infraestrutura de redes.
 
-Trabalho principalmente com Python, desenvolvendo APIs, automações, integrações e aplicações web.
-
-Atualmente, aprofundo meus conhecimentos em redes, virtualização, containers e infraestrutura, buscando entender todo o caminho entre o desenvolvimento de uma aplicação e sua execução em produção.
+Aberto a estágios e colaborações em projetos privados ou de código aberto, via [e-mail](mailto:yuriteixeirac@proton.me).
